@@ -1,4 +1,4 @@
-#Developer Assignment - Starter Repo
+# Developer Assignment - Starter Repo
 
 ## Goal
 This is a lightweight TypeScript + Node project intended as a simple homework assignment.
@@ -22,7 +22,7 @@ The purpose is to verify they can:
 3. Create a new branch: `git checkout -b feat/add-counter-button`
 4. Implement the requested task below.
 5. Add tests and ensure `npm test` passes.
-6. Commit and push, then open a Merge Request.
+
 
 ## The task (what the applicant must do)
 Add a **CounterButton** component that:
@@ -39,6 +39,6 @@ Add a **CounterButton** component that:
 ## Acceptance criteria (what we'll check)
 - Applicant can `npm install` and then `npm test` (all tests pass).
 - The new `CounterButton` component exists and is well-tested.
-- Changes are committed and a merge/pull request is created.
+- Changes are committed.
 - Tests are readable and demonstrate understanding of unit testing.
 
