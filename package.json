@@ -1,0 +1,19 @@
+{
+  "name": "dev-homework",
+  "version": "1.0.0",
+  "description": "Lightweight TypeScript + Node starter for a dev assignment (Angular-ish component style).",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "test": "jest --runInBand",
+    "start": "node dist/index.js",
+    "lint": "echo \"No linter configured; add one if you want.\""
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-jest": "^29.0.0",
+    "jest": "^29.0.0",
+    "@types/jest": "^29.0.0"
+  },
+  "dependencies": {}
+}
